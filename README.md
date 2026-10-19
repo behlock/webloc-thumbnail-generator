@@ -1,6 +1,6 @@
 # Webloc Thumbnails
 
-Give `.webloc` shortcuts a website screenshot icon in Finder.
+Give `.webloc` shortcuts a website screenshot icon in Finder
 
 ## Install and use
 
